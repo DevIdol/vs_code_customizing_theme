@@ -1,2 +1,2 @@
-# vs_code_costomizing_theme
+# vs_code_customizing_theme
 Ctrl + Shift + p => Open Settings(JSON)
