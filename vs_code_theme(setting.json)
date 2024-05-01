@@ -1,3 +1,4 @@
+{
   "workbench.colorCustomizations": {
     "statusBar.border": "#ff0000",
     "statusBar.debuggingBackground": "#062c7f",
@@ -34,4 +35,21 @@
     "dropdown.background": "#000000",
     "list.dropBackground": "#000000",
     "editorInfo.background": "#000000"
-  },
+},
+"[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.iconTheme": "material-icon-theme",
+"files.autoSave": "afterDelay",
+"[typescript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"terminal.integrated.defaultProfile.windows": "Git Bash",
+"[html]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[scss]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"diffEditor.ignoreTrimWhitespace": false
+}
