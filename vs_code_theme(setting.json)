@@ -1,4 +1,5 @@
 {
+  "debug.toolBarLocation": "docked",
   "workbench.colorCustomizations": {
     "statusBar.border": "#ff0000",
     "statusBar.debuggingBackground": "#062c7f",
@@ -40,7 +41,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 "workbench.iconTheme": "material-icon-theme",
-"files.autoSave": "afterDelay",
 "[typescript]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
@@ -51,5 +51,12 @@
 "[scss]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"diffEditor.ignoreTrimWhitespace": false
+"diffEditor.ignoreTrimWhitespace": false,
+"redhat.telemetry.enabled": true,
+"[json]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"prisma.showPrismaDataPlatformNotification": false,
+"security.workspace.trust.untrustedFiles": "newWindow",
+"files.autoSave": "afterDelay"
 }
